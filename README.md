@@ -1,6 +1,6 @@
 # Pokémon Crystal [![Build Status][ci-badge]][ci]
 
-This is a disassembly of my Pokémon Crystal romhack based on the dissasembly by pret.
+A pokemon Crystal romhack based on the dissasembly by pret.
 
 It adds new features such as:
 - the physical/special split
